@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mert5\\source\\repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj": {}
+    "C:\\Users\\EMİN\\Source\\Repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mert5\\source\\repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj": {
+    "C:\\Users\\EMİN\\Source\\Repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mert5\\source\\repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj",
+        "projectUniqueName": "C:\\Users\\EMİN\\Source\\Repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj",
         "projectName": "SumsOfArraysOfAnArray",
-        "projectPath": "C:\\Users\\mert5\\source\\repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj",
-        "packagesPath": "C:\\Users\\mert5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mert5\\source\\repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\obj\\",
+        "projectPath": "C:\\Users\\EMİN\\Source\\Repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj",
+        "packagesPath": "C:\\Users\\EMİN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EMİN\\Source\\Repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mert5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EMİN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
