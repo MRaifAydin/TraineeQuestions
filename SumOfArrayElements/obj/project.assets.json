@@ -8,19 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\EMİN\\.nuget\\packages\\": {}
+    "C:\\Users\\mert5\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EMİN\\Source\\Repos\\TraineeQuestions\\SumOfArrayElements\\SumOfArrayElements.csproj",
+      "projectUniqueName": "C:\\Users\\mert5\\source\\repos\\TraineeQuestions\\SumOfArrayElements\\SumOfArrayElements.csproj",
       "projectName": "SumOfArrayElements",
-      "projectPath": "C:\\Users\\EMİN\\Source\\Repos\\TraineeQuestions\\SumOfArrayElements\\SumOfArrayElements.csproj",
-      "packagesPath": "C:\\Users\\EMİN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EMİN\\Source\\Repos\\TraineeQuestions\\SumOfArrayElements\\obj\\",
+      "projectPath": "C:\\Users\\mert5\\source\\repos\\TraineeQuestions\\SumOfArrayElements\\SumOfArrayElements.csproj",
+      "packagesPath": "C:\\Users\\mert5\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mert5\\source\\repos\\TraineeQuestions\\SumOfArrayElements\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\EMİN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mert5\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
