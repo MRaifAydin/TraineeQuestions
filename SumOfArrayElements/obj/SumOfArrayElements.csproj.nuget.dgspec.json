@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90553\\Source\\Repos\\TraineeQuestions\\SumOfArrayElements\\SumOfArrayElements.csproj": {}
+    "C:\\Users\\90553\\source\\repos\\TraineeQuestions\\SumOfArrayElements\\SumOfArrayElements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90553\\Source\\Repos\\TraineeQuestions\\SumOfArrayElements\\SumOfArrayElements.csproj": {
+    "C:\\Users\\90553\\source\\repos\\TraineeQuestions\\SumOfArrayElements\\SumOfArrayElements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90553\\Source\\Repos\\TraineeQuestions\\SumOfArrayElements\\SumOfArrayElements.csproj",
+        "projectUniqueName": "C:\\Users\\90553\\source\\repos\\TraineeQuestions\\SumOfArrayElements\\SumOfArrayElements.csproj",
         "projectName": "SumOfArrayElements",
-        "projectPath": "C:\\Users\\90553\\Source\\Repos\\TraineeQuestions\\SumOfArrayElements\\SumOfArrayElements.csproj",
+        "projectPath": "C:\\Users\\90553\\source\\repos\\TraineeQuestions\\SumOfArrayElements\\SumOfArrayElements.csproj",
         "packagesPath": "C:\\Users\\90553\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90553\\Source\\Repos\\TraineeQuestions\\SumOfArrayElements\\obj\\",
+        "outputPath": "C:\\Users\\90553\\source\\repos\\TraineeQuestions\\SumOfArrayElements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\90553\\AppData\\Roaming\\NuGet\\NuGet.Config",

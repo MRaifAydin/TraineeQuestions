@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90553\\Source\\Repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj": {}
+    "C:\\Users\\90553\\source\\repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90553\\Source\\Repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj": {
+    "C:\\Users\\90553\\source\\repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90553\\Source\\Repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj",
+        "projectUniqueName": "C:\\Users\\90553\\source\\repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj",
         "projectName": "SumsOfArraysOfAnArray",
-        "projectPath": "C:\\Users\\90553\\Source\\Repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj",
+        "projectPath": "C:\\Users\\90553\\source\\repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj",
         "packagesPath": "C:\\Users\\90553\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90553\\Source\\Repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\obj\\",
+        "outputPath": "C:\\Users\\90553\\source\\repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\90553\\AppData\\Roaming\\NuGet\\NuGet.Config",
