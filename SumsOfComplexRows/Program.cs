@@ -2,7 +2,8 @@
 
 List<Result> Calculate(List<Entity> data)
 {
-    
+    return null;
+
 }
 
 var testData = new List<Entity>
