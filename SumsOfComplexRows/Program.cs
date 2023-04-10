@@ -1,8 +1,36 @@
 ﻿// Calculate each schools classroom count for the given floor. Assign them to a dto. In the end, we should know each school's, each floor's classroom count.
 
-List<Result> Calculate(List<Entity> data)
+using SumsOfComplexRows;
+// Verilen kat için her okulun sınıf sayısını hesaplayın.
+// Onları bir dto'ya atayın. Sonunda, her okulun, her katın derslik sayısını bilmeliyiz.
+ List<SchoolDto> Calculate(List<Entity> data)
 {
-    
+    var schoolDtoList = new List<SchoolDto>();
+
+    foreach (var entity in data)
+    {
+        var schoolDto = new SchoolDto
+        {
+            SchoolName = entity.SchoolName,
+            TotalFloors = entity.ClassroomsByFloor.Count,
+            Floors = new List<FloorDto>()
+        };
+
+        foreach (var row in entity.ClassroomsByFloor)
+        {
+            var floorDto = new FloorDto
+            {
+                FloorNumber = row.FloorNumber,
+                TotalClassrooms = row.ClassroomNames.Count
+            };
+
+            schoolDto.Floors.Add(floorDto);
+        }
+
+        schoolDtoList.Add(schoolDto);
+    }
+
+    return schoolDtoList;
 }
 
 var testData = new List<Entity>
