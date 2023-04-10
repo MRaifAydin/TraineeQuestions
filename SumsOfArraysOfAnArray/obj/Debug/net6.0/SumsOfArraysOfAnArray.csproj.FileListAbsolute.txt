@@ -1,0 +1,15 @@
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\bin\Debug\net6.0\SumsOfArraysOfAnArray.exe
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\bin\Debug\net6.0\SumsOfArraysOfAnArray.deps.json
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\bin\Debug\net6.0\SumsOfArraysOfAnArray.runtimeconfig.json
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\bin\Debug\net6.0\SumsOfArraysOfAnArray.dll
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\bin\Debug\net6.0\SumsOfArraysOfAnArray.pdb
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\obj\Debug\net6.0\SumsOfArraysOfAnArray.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\obj\Debug\net6.0\SumsOfArraysOfAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\obj\Debug\net6.0\SumsOfArraysOfAnArray.AssemblyInfoInputs.cache
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\obj\Debug\net6.0\SumsOfArraysOfAnArray.AssemblyInfo.cs
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\obj\Debug\net6.0\SumsOfArraysOfAnArray.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\obj\Debug\net6.0\SumsOfArraysOfAnArray.dll
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\obj\Debug\net6.0\refint\SumsOfArraysOfAnArray.dll
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\obj\Debug\net6.0\SumsOfArraysOfAnArray.pdb
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\obj\Debug\net6.0\SumsOfArraysOfAnArray.genruntimeconfig.cache
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfArraysOfAnArray\obj\Debug\net6.0\ref\SumsOfArraysOfAnArray.dll

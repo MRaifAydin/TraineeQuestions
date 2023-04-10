@@ -1,0 +1,5 @@
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfComplexRows\obj\Debug\net6.0\SumsOfComplexRows.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfComplexRows\obj\Debug\net6.0\SumsOfComplexRows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfComplexRows\obj\Debug\net6.0\SumsOfComplexRows.AssemblyInfoInputs.cache
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfComplexRows\obj\Debug\net6.0\SumsOfComplexRows.AssemblyInfo.cs
+C:\Users\90553\source\repos\TraineeQuestions\SumsOfComplexRows\obj\Debug\net6.0\SumsOfComplexRows.csproj.CoreCompileInputs.cache
