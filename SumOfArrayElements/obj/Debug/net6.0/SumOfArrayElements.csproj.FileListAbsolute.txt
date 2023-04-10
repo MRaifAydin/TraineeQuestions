@@ -1,0 +1,15 @@
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.exe
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.deps.json
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.runtimeconfig.json
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.dll
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\bin\Debug\net6.0\SumOfArrayElements.pdb
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.AssemblyInfoInputs.cache
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.AssemblyInfo.cs
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.dll
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\obj\Debug\net6.0\refint\SumOfArrayElements.dll
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.pdb
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\obj\Debug\net6.0\SumOfArrayElements.genruntimeconfig.cache
+C:\Users\90553\source\repos\TraineeQuestions\SumOfArrayElements\obj\Debug\net6.0\ref\SumOfArrayElements.dll

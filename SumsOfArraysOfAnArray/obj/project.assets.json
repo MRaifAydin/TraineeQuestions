@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mert5\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\90553\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mert5\\source\\repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj",
+      "projectUniqueName": "C:\\Users\\90553\\Source\\Repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj",
       "projectName": "SumsOfArraysOfAnArray",
-      "projectPath": "C:\\Users\\mert5\\source\\repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj",
-      "packagesPath": "C:\\Users\\mert5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mert5\\source\\repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\obj\\",
+      "projectPath": "C:\\Users\\90553\\Source\\Repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\SumsOfArraysOfAnArray.csproj",
+      "packagesPath": "C:\\Users\\90553\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\90553\\Source\\Repos\\TraineeQuestions\\SumsOfArraysOfAnArray\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\mert5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\90553\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
